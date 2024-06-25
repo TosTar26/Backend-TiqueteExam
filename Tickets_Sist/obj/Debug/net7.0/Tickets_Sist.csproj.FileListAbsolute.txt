@@ -75,3 +75,15 @@ C:\Users\ozsan\OneDrive\Escritorio\Vacaciones\Pro_Tickets\Tickets_Sist\obj\Debug
 C:\Users\ozsan\OneDrive\Escritorio\Vacaciones\Pro_Tickets\Tickets_Sist\obj\Debug\net7.0\Tickets_Sist.pdb
 C:\Users\ozsan\OneDrive\Escritorio\Vacaciones\Pro_Tickets\Tickets_Sist\obj\Debug\net7.0\Tickets_Sist.genruntimeconfig.cache
 C:\Users\ozsan\OneDrive\Escritorio\Vacaciones\Pro_Tickets\Tickets_Sist\obj\Debug\net7.0\ref\Tickets_Sist.dll
+C:\Users\ozsan\OneDrive\Escritorio\Vacaciones\Pro_Tickets\Tickets_Sist\bin\Debug\net7.0\DataAccess.dll
+C:\Users\ozsan\OneDrive\Escritorio\Vacaciones\Pro_Tickets\Tickets_Sist\bin\Debug\net7.0\DTOS.dll
+C:\Users\ozsan\OneDrive\Escritorio\Vacaciones\Pro_Tickets\Tickets_Sist\bin\Debug\net7.0\Entities.dll
+C:\Users\ozsan\OneDrive\Escritorio\Vacaciones\Pro_Tickets\Tickets_Sist\bin\Debug\net7.0\Services.dll
+C:\Users\ozsan\OneDrive\Escritorio\Vacaciones\Pro_Tickets\Tickets_Sist\bin\Debug\net7.0\DTOS.pdb
+C:\Users\ozsan\OneDrive\Escritorio\Vacaciones\Pro_Tickets\Tickets_Sist\bin\Debug\net7.0\Services.pdb
+C:\Users\ozsan\OneDrive\Escritorio\Vacaciones\Pro_Tickets\Tickets_Sist\bin\Debug\net7.0\DataAccess.pdb
+C:\Users\ozsan\OneDrive\Escritorio\Vacaciones\Pro_Tickets\Tickets_Sist\bin\Debug\net7.0\Entities.pdb
+C:\Users\ozsan\OneDrive\Escritorio\Vacaciones\Pro_Tickets\Tickets_Sist\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\ozsan\OneDrive\Escritorio\Vacaciones\Pro_Tickets\Tickets_Sist\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\ozsan\OneDrive\Escritorio\Vacaciones\Pro_Tickets\Tickets_Sist\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\ozsan\OneDrive\Escritorio\Vacaciones\Pro_Tickets\Tickets_Sist\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
