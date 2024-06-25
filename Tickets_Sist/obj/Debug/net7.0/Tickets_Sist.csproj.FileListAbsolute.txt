@@ -1,0 +1,8 @@
+C:\Users\ozsan\OneDrive\Escritorio\Vacaciones\Pro_Tickets\Tickets_Sist\obj\Debug\net7.0\Tickets_Sist.csproj.AssemblyReference.cache
+C:\Users\ozsan\OneDrive\Escritorio\Vacaciones\Pro_Tickets\Tickets_Sist\obj\Debug\net7.0\Tickets_Sist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ozsan\OneDrive\Escritorio\Vacaciones\Pro_Tickets\Tickets_Sist\obj\Debug\net7.0\Tickets_Sist.AssemblyInfoInputs.cache
+C:\Users\ozsan\OneDrive\Escritorio\Vacaciones\Pro_Tickets\Tickets_Sist\obj\Debug\net7.0\Tickets_Sist.AssemblyInfo.cs
+C:\Users\ozsan\OneDrive\Escritorio\Vacaciones\Pro_Tickets\Tickets_Sist\obj\Debug\net7.0\Tickets_Sist.csproj.CoreCompileInputs.cache
+C:\Users\ozsan\OneDrive\Escritorio\Vacaciones\Pro_Tickets\Tickets_Sist\obj\Debug\net7.0\Tickets_Sist.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ozsan\OneDrive\Escritorio\Vacaciones\Pro_Tickets\Tickets_Sist\obj\Debug\net7.0\Tickets_Sist.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ozsan\OneDrive\Escritorio\Vacaciones\Pro_Tickets\Tickets_Sist\obj\Debug\net7.0\Tickets_Sist.sourcelink.json
