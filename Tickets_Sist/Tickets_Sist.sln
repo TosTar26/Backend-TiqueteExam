@@ -5,11 +5,13 @@ VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tickets_Sist", "Tickets_Sist.csproj", "{0A4A0170-DF86-498C-BA22-EFC944771973}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entities", "..\Entities\Entities.csproj", "{B089D3C1-B1EC-49B2-BB1B-39DE88FE6496}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Entities", "..\Entities\Entities.csproj", "{B089D3C1-B1EC-49B2-BB1B-39DE88FE6496}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Services", "..\Services\Services.csproj", "{4FFD3CA4-BC7C-4517-A601-D85FA874E5FF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Services", "..\Services\Services.csproj", "{4FFD3CA4-BC7C-4517-A601-D85FA874E5FF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess", "..\DataAccess\DataAccess.csproj", "{15E5AE20-FF8D-496C-BB56-6B9A52F5F4BD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataAccess", "..\DataAccess\DataAccess.csproj", "{15E5AE20-FF8D-496C-BB56-6B9A52F5F4BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DTOS", "..\DTOS\DTOS.csproj", "{322447FC-9A6D-4469-B73B-D60842967105}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{15E5AE20-FF8D-496C-BB56-6B9A52F5F4BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{15E5AE20-FF8D-496C-BB56-6B9A52F5F4BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{15E5AE20-FF8D-496C-BB56-6B9A52F5F4BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{322447FC-9A6D-4469-B73B-D60842967105}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{322447FC-9A6D-4469-B73B-D60842967105}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{322447FC-9A6D-4469-B73B-D60842967105}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{322447FC-9A6D-4469-B73B-D60842967105}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
