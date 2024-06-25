@@ -8,7 +8,6 @@ namespace Services.MyDbContext
         public MyContext(DbContextOptions<MyContext> options) : base(options)
         {
         }
-
         public DbSet<Ticket> Tickets { get; set; }
         public DbSet<Route> Routes { get; set; }
 
@@ -29,6 +28,15 @@ namespace Services.MyDbContext
                 new Route { RouteId = 4, DestinyName = "Lugar 3", ExitName = "Lugar 2", Price = 1000 },
                 new Route { RouteId = 5, DestinyName = "Lugar 1", ExitName = "Lugar 3", Price = 1500 },
                 new Route { RouteId = 6, DestinyName = "Lugar 3", ExitName = "Lugar 1", Price = 1500 });
+
+            modelBuilder.Entity<Ticket>()
+              .Property(t => t.DateBackingField)
+              .HasColumnName("Date");
+
+            modelBuilder.Entity<Ticket>()
+                .Ignore(t => t.Date);
+
+            base.OnModelCreating(modelBuilder);
         }
     }
 }

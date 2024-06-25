@@ -1,12 +1,11 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿
+using Entities;
 
-namespace Services.Ticket
+namespace Services
 {
-    internal interface ISvTicket
+    public interface ISvTicket
     {
+        public List<Ticket> ReserveTicket(DateOnly date, string exit, string destiny);
+        public float GetPrice(string exit, string destiny);
     }
 }

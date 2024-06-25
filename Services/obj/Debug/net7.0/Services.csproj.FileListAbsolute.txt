@@ -10,3 +10,11 @@ C:\Users\ozsan\OneDrive\Escritorio\Vacaciones\Pro_Tickets\Services\obj\Debug\net
 C:\Users\ozsan\OneDrive\Escritorio\Vacaciones\Pro_Tickets\Services\obj\Debug\net7.0\refint\Services.dll
 C:\Users\ozsan\OneDrive\Escritorio\Vacaciones\Pro_Tickets\Services\obj\Debug\net7.0\Services.pdb
 C:\Users\ozsan\OneDrive\Escritorio\Vacaciones\Pro_Tickets\Services\obj\Debug\net7.0\ref\Services.dll
+C:\Users\ozsan\OneDrive\Escritorio\Vacaciones\Pro_Tickets\Services\bin\Debug\net7.0\Services.runtimeconfig.json
+C:\Users\ozsan\OneDrive\Escritorio\Vacaciones\Pro_Tickets\Services\bin\Debug\net7.0\DataAccess.dll
+C:\Users\ozsan\OneDrive\Escritorio\Vacaciones\Pro_Tickets\Services\bin\Debug\net7.0\Entities.dll
+C:\Users\ozsan\OneDrive\Escritorio\Vacaciones\Pro_Tickets\Services\bin\Debug\net7.0\DataAccess.pdb
+C:\Users\ozsan\OneDrive\Escritorio\Vacaciones\Pro_Tickets\Services\bin\Debug\net7.0\Entities.pdb
+C:\Users\ozsan\OneDrive\Escritorio\Vacaciones\Pro_Tickets\Services\obj\Debug\net7.0\Services.csproj.AssemblyReference.cache
+C:\Users\ozsan\OneDrive\Escritorio\Vacaciones\Pro_Tickets\Services\obj\Debug\net7.0\Services.csproj.Up2Date
+C:\Users\ozsan\OneDrive\Escritorio\Vacaciones\Pro_Tickets\Services\obj\Debug\net7.0\Services.genruntimeconfig.cache
