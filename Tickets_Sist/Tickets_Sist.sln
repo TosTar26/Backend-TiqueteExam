@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tickets_Sist", "Tickets_Sist.csproj", "{0A4A0170-DF86-498C-BA22-EFC944771973}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tickets_Sist", "Tickets_Sist.csproj", "{0A4A0170-DF86-498C-BA22-EFC944771973}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entities", "..\Entities\Entities.csproj", "{B089D3C1-B1EC-49B2-BB1B-39DE88FE6496}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Services", "..\Services\Services.csproj", "{4FFD3CA4-BC7C-4517-A601-D85FA874E5FF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{0A4A0170-DF86-498C-BA22-EFC944771973}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0A4A0170-DF86-498C-BA22-EFC944771973}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0A4A0170-DF86-498C-BA22-EFC944771973}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B089D3C1-B1EC-49B2-BB1B-39DE88FE6496}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B089D3C1-B1EC-49B2-BB1B-39DE88FE6496}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B089D3C1-B1EC-49B2-BB1B-39DE88FE6496}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B089D3C1-B1EC-49B2-BB1B-39DE88FE6496}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FFD3CA4-BC7C-4517-A601-D85FA874E5FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FFD3CA4-BC7C-4517-A601-D85FA874E5FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FFD3CA4-BC7C-4517-A601-D85FA874E5FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FFD3CA4-BC7C-4517-A601-D85FA874E5FF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
