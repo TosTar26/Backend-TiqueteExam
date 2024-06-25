@@ -7,6 +7,6 @@
         public string Destiny { get; set; }
         public string Exit { get; set; }
         public int RouteId { get; set; }
-        public Route route { get; set; }
+        public Route Route { get; set; }
     }
 }

@@ -6,6 +6,6 @@
         public float Price { get; set; }
         public string DestinyName { get; set; }
         public string ExitName { get; set; }
-        public List<Ticket> tickets { get; set; }
+        public List<Ticket> Tickets { get; set; }
     } 
 }
